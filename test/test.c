@@ -36,6 +36,7 @@ int main(int argc, char *argv[]) {
             lwe_fully_secure_suite,
             paillier_suite,
             dmcfe_suite,
+            mcfe_suite,
             damgard_dec_multi_suite,
             fhipe_suite,
             fh_multi_ipe_suite,

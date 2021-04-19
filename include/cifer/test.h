@@ -42,6 +42,7 @@ MunitSuite lwe_fully_secure_suite;
 MunitSuite ring_lwe_suite;
 MunitSuite paillier_suite;
 MunitSuite dmcfe_suite;
+MunitSuite mcfe_suite;
 MunitSuite damgard_dec_multi_suite;
 MunitSuite fhipe_suite;
 MunitSuite fh_multi_ipe_suite;
